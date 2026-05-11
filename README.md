@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 7ab7c7dfe8f1f29db3513eadc03a8ed97607f828
+> রাতের এই অন্ধকারে জাগে শুধু তৃষ্ণা
+> তোমার ওই চোখের মায়ায় হারায় সব দিশা
+> শিহরণে কাঁপে আজ আমার এই বুক
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
