@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jadukor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Jadukor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jadukor/) |
+| **Get License** | [Secure Licensing Rights for Jadukor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jadukor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4850fc6d4837d550d06e5752a4bcb7fcb221d43ebf8f487cb098e061c059a55d` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

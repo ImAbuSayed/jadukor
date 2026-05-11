@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Jadukor
+
+This log tracks the cryptographic history and versioning for the song **Jadukor** (jadukor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T06:48:31.311146 | `v1` | `4850fc6d4837d550d06e5752a4bcb7fcb221d43ebf8f487cb098e061c059a55d` | `b94368c2c168784425ab960eb5bc6e4668257277019f57a6924522ac45fc2f57` | `2026-05-11_jadukor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
